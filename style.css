@@ -1,0 +1,30 @@
+* {
+    Font-family:Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+}
+
+header {
+    text-align: left;
+    border-bottom: 1px solid seashell;
+    height: 69px; 
+}
+
+header img {
+    height: 50px;
+
+}
+
+nav {
+    text-decoration: underline;
+    text-align: right;
+    
+}
+main{
+    background-image: url("img\img-mission-background.jpg");
+
+    }
+
